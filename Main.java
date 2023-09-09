@@ -6,6 +6,8 @@ import src.Structure.Generic;
 import src.IO.*;
 
 public class Main {
+  //DISCIPLINA: ESTRUTURA DE DADOS II   PRIMEIRA ATIVIDADE PRATICA 
+  // ALUNO: Railton Rosa de Carvalho
   //classe responvel pela interação com o usuario além de gerar um LOG de cada algoritmo para analise.
   public static void main(String[] args) throws IOException {
     int tamanho;
