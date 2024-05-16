@@ -14,8 +14,8 @@ em dados qualquer de um arquivo de dados csv.
 - SIsort => combinação dos algoritmos SelectSort e InsertSort.
 
 ## COMO USAR
-Altere se precisar arquivo CSV padrão para o de sua escolha na pasta src/IO e substitua com mesmo nove o arquivo "base.csv"
-Execute a classe Main.java
-O programa mostará um menu pedindo a escolha de um algoritmo de ordenação
-Selecione a ordem de ordenação ASC para ascendente e DESC para decrecente.
-Após a excucução do algoritmo selecionado e sua ordem o programa apresentar um resumo com metricas de acordo com tipo de dado como numero de passos usados e tempo de ordenação levados para o CSV especifico.
+1 - Altere se precisar arquivo CSV padrão para o de sua escolha na pasta src/IO e substitua com mesmo nove o arquivo "base.csv"
+2 - Execute a classe Main.java
+3 - O programa mostará um menu pedindo a escolha de um algoritmo de ordenação
+4 - Selecione a ordem de ordenação ASC para ascendente e DESC para decrecente.
+5 - Após a excucução do algoritmo selecionado e sua ordem o programa apresentar um resumo com metricas de acordo com tipo de dado como numero de passos usados e tempo de ordenação levados para o CSV especifico.
